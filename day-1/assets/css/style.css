@@ -1,0 +1,18 @@
+@media screen and (max-width: 768px){
+            nav {
+                width: 100%;
+            }
+            .card {
+                display: flex;
+                flex-direction: column;
+                width: 40% !important;
+                margin: 2rem auto !important;
+            }
+            .photo {
+                display: none;
+                margin-right: 0 !important;
+                margin: 2rem auto !important;
+                width: 100%;
+                margin-left: 0;
+            }
+        }
